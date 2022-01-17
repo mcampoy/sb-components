@@ -37,6 +37,12 @@ Tertiary.args = {
 }
 export const CustomFontColor = Template.bind({});
 CustomFontColor.args = {
-  // customFontColor: '#5517ac',  
+  customFontColor: '#5517ac',
+  size: 'h1'
+}
+export const CustomBackgroundColor = Template.bind({});
+CustomBackgroundColor.args = {
+  backgroundColor: '#000000',
+  customFontColor: '#fcfcfc',
   size: 'h1'
 }
