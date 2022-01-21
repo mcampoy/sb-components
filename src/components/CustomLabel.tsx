@@ -45,3 +45,5 @@ export const CustomLabel = ({
     </span>
   )
 };
+
+export default CustomLabel;

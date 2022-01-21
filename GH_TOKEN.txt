@@ -1,2 +1,0 @@
-GH_TOKEN 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
-NPM_TOKEN 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
