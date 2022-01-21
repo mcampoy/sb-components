@@ -1,4 +1,3 @@
-
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 import { Button } from './Button';

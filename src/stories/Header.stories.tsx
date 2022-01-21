@@ -1,4 +1,3 @@
-
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 import { Header } from './Header';
